@@ -1,0 +1,36 @@
+.blueBorder {
+    /* border: 4px solid blue; */
+}
+
+.redBorder {
+    /* border: 4px solid red; */
+}
+
+.yellowBorder {
+    /* border: 4px solid yellow; */
+}
+
+.logo
+{
+    margin-left: 9%;
+}
+
+.menuBar{
+    display: flex;
+}
+
+.menuItem{
+    /* align-self: flex-end; */
+    width:100%;
+    text-decoration: none;
+    color:white;
+    letter-spacing: 0.06em;
+    font-size: 17px;
+    font-weight: bold;
+    transition: color 0.55s ease-in-out;
+}
+
+.menuItem:hover
+{
+    color: #E55B75;
+}

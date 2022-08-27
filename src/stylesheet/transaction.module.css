@@ -1,0 +1,25 @@
+.blueBorder {
+    /* border: 4px solid blue; */
+}
+
+.redBorder {
+    /* border: 4px solid red; */
+}
+
+.yellowBorder {
+    /* border: 4px solid yellow; */
+}
+
+.card{
+    background: #181918;
+    border-radius: 15px;
+}
+.text{
+    color:white;
+}
+
+.time{
+    color: #37c7da;
+    font-weight: bold;
+    text-align: center;
+}
