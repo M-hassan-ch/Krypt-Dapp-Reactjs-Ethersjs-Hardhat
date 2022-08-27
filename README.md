@@ -11,5 +11,5 @@
  - Ethers.js (contract interaction).
  - Hardhat (contract deployement and local blockchain).
 
- ![image](./prototypes/krypt2.png)
+ ![image](./prototypes/krypt1.png)
 
